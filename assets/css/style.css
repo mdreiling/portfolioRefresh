@@ -1,27 +1,32 @@
-/* Logo Colors --- Green: #0DB14B | Blue: #00BCDD | Purple: #7A2A90 */
+/* Logo Colors --- Green: #0DB14B | Blue: #00BCDD | Purple: #7A2A90 | Grey: #9F9EA7 */
+
 body {
     font-family: upgrade-lights, sans-serif;
     font-weight: 500;
     font-style: normal;
 }
 
-
 h1 {
     text-align: center;
 }
 
-h4 {
-    font-family: upgrade, sans-serif;
-    font-weight: 400;
-    font-style: normal;
+h3 {
+    font-family: inherit;
+    color: #ffffff;
+    margin-bottom: 0px;
 }
 
-h6 {
-    padding-left: 15px;
+h5 {
+    font-family: inherit;
+    color: #ffffff;
+    margin-bottom: 0px;
 }
 
 #menuBar {
     background-color: #0DB14B;
     color: #ffffff;
     padding: 15px 30px 15px 30px;
+    font-family: upgrade, sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
