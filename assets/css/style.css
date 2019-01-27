@@ -64,6 +64,13 @@ a:hover {
     margin-bottom: 0px;
 }
 
+#headerText {
+    padding: 10px 30px 3px 30px;
+    font-family: upgrade,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 #menuBar {
     background-color: #0DB14B;
     color: #ffffff;
@@ -72,8 +79,12 @@ a:hover {
 }
 
 #bodyContent {
-    padding: 15px 30px 15px 30px;
+    padding: 15px 30px 15px 30px !important;
     height: 100vh;
+}
+
+.grid-container {
+    padding: 30px 30px 15px 30px !important;
 }
 
 .button {
