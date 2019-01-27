@@ -99,6 +99,8 @@ a:hover {
     bottom: 0px;
     width: 100% !important;
     background-color: #7A2A90 !important;
+    color: #ffffff;
     border-top: solid 2px #9F9EA7;
-
+    text-align: center;
+    padding: 10px;
 }
