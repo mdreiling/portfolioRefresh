@@ -94,6 +94,14 @@ a:hover {
     font-style: normal;
 }
 
+.thumbnail {
+    max-width: 150px;
+}
+
+#photoOfMe {
+    max-width: 140px;
+}
+
 .footer {
     position: absolute;
     bottom: 0px;
